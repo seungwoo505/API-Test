@@ -2,7 +2,7 @@
 
 ## 목적
 
-API를 직접 제작을 해봐서 REST API 형식에 맞춰 통신을 해보는 것
+API를 직접 제작을 해봐서 REST API 형식에 맞춰 통신을 해보는 것을 목적으로 제작했습니다.
 
 개인 기여도 : 100%
 
@@ -16,9 +16,9 @@ API를 직접 제작을 해봐서 REST API 형식에 맞춰 통신을 해보는 
 
 ## 필수 사항
 
-'''
+```
   1. node.js 설치 필수
   2. npm i -g json-server 으로 json server 설치
   3. 파일 public으로 접근하고 json-server --watch db.json 을 통해 api 서버 생성
   4. 터미널을 새로 열어서 react를 실행 시키면됩니다.
-'''
+```
