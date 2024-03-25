@@ -5,7 +5,6 @@ import { useState } from 'react';
 function App() {
   const [title, setTitle] = useState("");
   const [text, setText] = useState("");
-  const [id, setId] = useState(2);
   const [lod, setLod] = useState();
   const save = () =>{
     //http://localhost:3000
