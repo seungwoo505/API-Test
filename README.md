@@ -9,7 +9,7 @@ API를 직접 제작을 해봐서 REST API 형식에 맞춰 통신을 해보는 
 제작 기간 : 2024.03 ~ 2024.03
 
 ### UI
-<img src="https://raw.githubusercontent.com/seungwoo505/API-Test/main/mainScreen.png" height="300"/>
+<img src="https://raw.githubusercontent.com/seungwoo505/API-Test/main/mainScreen.png"/>
 
 ## 설명
 
