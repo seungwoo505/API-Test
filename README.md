@@ -8,6 +8,9 @@ API를 직접 제작을 해봐서 REST API 형식에 맞춰 통신을 해보는 
 
 제작 기간 : 2024.03 ~ 2024.03
 
+### UI
+<img src="https://raw.githubusercontent.com/seungwoo505/API-Test/main/mainScreen.png" height="500"/>
+
 ## 설명
 
 제목과 글을 작성하고 저장을 누르면 통신을 통해 DB에 저장이 되고 로드를 누르면 DB에 저장된 값들이 표시되게됩니다. 그리고 로드 1을 누르면 id값이 1만 표시됩니다.
